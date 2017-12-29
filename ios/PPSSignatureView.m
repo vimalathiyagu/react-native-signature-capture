@@ -11,7 +11,7 @@
 
 #define QUADRATIC_DISTANCE_TOLERANCE 3.0   // Minimum distance to make a curve
 
-#define             MAXIMUM_VERTECES 100000
+#define             MAXIMUM_VERTECES 30000
 
 
 static GLKVector3 StrokeColor = { 0, 0, 0 };
